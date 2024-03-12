@@ -1,5 +1,3 @@
-![image](https://github.com/HoangGuruu/ci-cd-aws/assets/111829092/4743ce3a-20d6-422a-95f3-7a530ff2d02)
-
 
 ## I. Question of fundamentals
 ### 1. What is AWS?
